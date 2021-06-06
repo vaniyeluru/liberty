@@ -1,2 +1,2 @@
-# liberty.rar
+# liberty
 Website for Liberty Company
